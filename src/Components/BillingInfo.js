@@ -196,9 +196,7 @@ const BillingForm = () => {
       </div>
 
     </div>
-
-    </>
-    
+    </>   
   );
 };
 
